@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Fallingfunctions"
+  site-url: "https://lnicole08.github.io/Fallingfunctions"
+  description: "NLclimb"
+  repo-branch: main
+  repo-url: "https://github.com/lnicole08/Fallingfunctions"
